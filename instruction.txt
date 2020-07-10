@@ -1,0 +1,1 @@
+You need to open Qt with administrator rigth for promiscous mode (project only for windows for now)
